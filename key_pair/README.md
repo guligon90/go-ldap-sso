@@ -1,2 +1,1 @@
-This directory contains the rsa key pair. simple-sso uses the private key to sign the jwt tokens. The client apps need to use the public key
-to decrypt the same
+This directory contains the RSA key pair. go-ldap-sso uses the private key to sign the JWT tokens. The client application need to use the public key to decrypt the same.

@@ -1,1 +1,1 @@
-This directory contains the ssl certificate and the ssl key. simple-sso runs on https and the cert and the key are passed to  ListenAndServeTLS. 
+This directory contains the SSL certificate and key. go-ldap-sso runs on HTTPS and the certificate and key are passed to `ListenAndServeTLS`.
